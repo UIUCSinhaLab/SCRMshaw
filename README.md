@@ -19,3 +19,4 @@ SCRMshaw is a genome-wide CRM prediction program, described and used in the foll
  Dmel CRM training sets: crms.dmel.tar.gz
  Multiple drosophila species CRM training sets: crms.dros.tar.gz
  Pipeline for enrichment test: enrich.pipeline.tar.gz
+ Data to generate GBE paper's results: https://uofi.box.com/s/usjzf3pjao962w68at4fnkp3jq2n1vxy
